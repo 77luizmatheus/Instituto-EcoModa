@@ -1,0 +1,24 @@
+/* cores: verde, bege e marrom claro */
+body {
+  background-color: #f5f0e1;
+  color: #4a3b2a;
+}
+
+.bg-verde {
+  background-color: #4f7942;
+}
+
+.conteudo {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+.emoji {
+  font-size: 50px;
+}
